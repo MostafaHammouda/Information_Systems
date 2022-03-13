@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\trial5\trial5\bin\Debug\trial5.dll.config
-C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\trial5\trial5\bin\Debug\trial5.dll
-C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\trial5\trial5\bin\Debug\trial5.pdb
-C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\trial5\trial5\obj\Debug\trial5.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\trial5\trial5\obj\Debug\trial5.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\trial5\trial5\obj\Debug\trial5.dll
-C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\trial5\trial5\obj\Debug\trial5.pdb
